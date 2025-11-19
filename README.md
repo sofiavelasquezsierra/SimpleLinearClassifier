@@ -1,2 +1,2 @@
-# Brain-Computer-Interface
+# Brain Computer Interface - Simple Linear Classifier
 MI decoding
